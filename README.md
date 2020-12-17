@@ -1,2 +1,2 @@
 # neopixel_host
-Board to control 5V-12V neopixel strips
+Board and code to control 5V-12V WS2812 (neopixel) strips.
